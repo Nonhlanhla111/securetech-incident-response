@@ -1,0 +1,7 @@
+# Packet captures contain other devices' traffic and internal addresses - keep local
+*.pcap
+*.pcapng
+# OS / editor noise
+.DS_Store
+Thumbs.db
+~$*
