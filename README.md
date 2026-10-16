@@ -21,9 +21,10 @@ free software and a harmless test file; no real malware was used. The work ran o
 | 3 | B: Final technical report | Combine scenario, tools, method, screenshots, findings, controls and lessons learned | The whole report |
 
 ## Contents
-- `report/`: final incident response report ( PDF)
-- `evidence/day1/`: Microsoft Defender and EICAR detection screenshots
-- `evidence/day2/`: Wireshark and Event Viewer screenshots (account name redacted)
+- `report/`: final incident response report (Word and PDF)
+
+This is a sanitised copy: the computer name, internal IP addresses and account name are replaced or
+blacked out. Raw screenshots and packet captures are not included.
 
 ## Summary of results
 | Area | Result |
@@ -35,7 +36,3 @@ free software and a harmless test file; no real malware was used. The work ran o
 
 ## Tools
 Microsoft Defender, Windows Firewall, EICAR test file, Wireshark/Npcap, Event Viewer.
-
-## Notes
-- This is a simulation. Only the harmless EICAR test string was used.
-- Packet captures (`.pcapng`) are excluded on purpose because they contain internal addresses and background traffic.
