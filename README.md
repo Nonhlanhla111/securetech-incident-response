@@ -21,7 +21,9 @@ free software and a harmless test file; no real malware was used. The work ran o
 | 3 | B: Final technical report | Combine scenario, tools, method, screenshots, findings, controls and lessons learned | The whole report |
 
 ## Contents
-- `report/`: final incident response report (Word and PDF)
+- `report/`: final incident response report
+
+  📄 **[Read the full report (PDF)](report/SecureTech_Incident_Report_Portfolio.pdf)**
 
 This is a sanitised copy: the computer name, internal IP addresses and account name are replaced or
 blacked out. Raw screenshots and packet captures are not included.
