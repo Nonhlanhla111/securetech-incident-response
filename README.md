@@ -23,7 +23,7 @@ free software and a harmless test file; no real malware was used. The work ran o
 ## Contents
 - `report/`: final incident response report
 
-  📄 **[Secure Tech Incident Report](report/SecureTech__Incident_Report.pdf)**
+  📄 **[Secure Tech Incident Report](SecureTech_Incident_Report.pdf)**
 
 This is a sanitised copy: the computer name, internal IP addresses and account name are replaced or
 blacked out. Raw screenshots and packet captures are not included.
